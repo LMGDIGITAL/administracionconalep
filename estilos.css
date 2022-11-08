@@ -37,15 +37,6 @@ nav a:hover {
 
 }
 
-@media (max-whidth:700px){
-    header{
-        flex-direction: column;
-    }
-
-    nav{
-        padding: 10px 0px;
-    }
-}
 
 p{
     padding: 1px 10px;
